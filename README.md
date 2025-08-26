@@ -1,40 +1,55 @@
 # Primeiro-_reposit-rio
-Criei minha primeira pasta🤙😀🙏
+🤙😀🙏
 
 
- # 👋 Olá, eu sou a Talita
 
-Sou estudante de Python e estou começando minha jornada na programação. Meu foco é aprender na prática, construir projetos e me preparar para o mercado de trabalho.
 
----
 
-## Sobre mim
+# 💖 Oi, eu sou a Talita!
 
-- 🎓 Estudante de Python e desenvolvimento de software.
-- 💡 Apaixonado por resolver problemas com código.
-- 🌱 Atualmente estudando estruturas de dados, algoritmos e desenvolvimento web.
-- 🎯 Objetivo: me tornar um desenvolvedor Python júnior e contribuir para projetos reais.
 
----
 
-## Habilidades Técnicas
 
-- Python (básico)
-- Controle de versão com Git/GitHub
-- Bibliotecas: Pandas, Requests, BeautifulSoup (ou as que você usa)
-- Noções de HTML e CSS
-- Conhecimento básico em automação de tarefas
 
----
+(![download](https://github.com/user-attachments/assets/db045c34-632f-4983-aac7-f1674a11c5dc)
+)
 
-## Como me encontrar
 
-- 📫 Email: [seuemail@exemplo.com]
-- 🌐 LinkedIn: [seulinkedin]
-- 💻 GitHub: [seugithub]
+
+
+
+
+
+
+
+✨ Apaixonada por Python, coca🥤 e criar soluções criativas com código!  
+🚀 Estou começando minha jornada para me tornar uma desenvolvedora incrível!
 
 ---
 
-Obrigado por visitar meu perfil! Estou aberto a colaborações, dicas e oportunidades para crescer na área.
+## Sobre mim 💡
+
+- 🎓 Estudante de Python e entusiasta da tecnologia  
+- 🌸 Curiosa, dedicada e sempre em busca de aprender algo novo  
+- 💻 Amo automatizar tarefas e construir projetos que fazem sentido  
+- 🌱 Explorando o universo de data science, desenvolvimento web e automação  
+
+---
+
+## Minhas habilidades 🛠️
+
+- 🐍 Python (do básico ao intermediário)  
+- 🌿 Git & GitHub para versionamento e colaboração  
+- 📊 Bibliotecas: Pandas, NumPy, Matplotlib  
+- 🌐 HTML, CSS e Flask para criar web apps simples  
+- 🤖 Automação com Requests, Selenium e BeautifulSoup  
+
+---
+
+## Como se comunicar
+
+Email🦋: talitavitoriadasilvaxr25@gmail.com
+
+Obrigada pela visita! ✨ Estou super aberta a trocar ideias, aprender e crescer juntas no mundo da programação! 💻🤟
 
 
