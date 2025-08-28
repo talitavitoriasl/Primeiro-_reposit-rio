@@ -38,7 +38,7 @@
 
 ## Minhas habilidades 🛠️
 
-- 🐍 Python (do básico ao intermediário)  
+- 🐍 Python
 - 🌿 Git & GitHub para versionamento e colaboração  
 - 📊 Bibliotecas: Pandas, NumPy, Matplotlib  
 - 🌐 HTML, CSS e Flask para criar web apps simples  
