@@ -1,5 +1,4 @@
 # Primeiro-_reposit-rio
-minha primeira pasta
 
 
 
